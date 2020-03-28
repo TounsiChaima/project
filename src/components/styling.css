@@ -1,0 +1,241 @@
+body{
+    background: radial-gradient(#e5e5e5,#ffff,#e5e5e5);
+}
+.card{
+    width:20rem;
+}
+.card:hover{
+    box-shadow: 5px 10px 20px 1px !important ;
+}
+.card-body{
+    padding: 3rem 0 !important;
+}
+.overflow{
+    overflow: hidden;
+
+}
+.card-text{
+    font-size: 0.9rem;
+    padding: 0.4rem 1.9rem;
+}
+.card-img-top {
+    transform: scale(1);
+    transition: transform 0.5s ease;
+
+}
+.card-img-top:hover{
+    transform: scale(1.8);
+}
+container-fluid.row {
+    padding-top : 6rem;
+}
+.list-group-horizontal .list-group-item {
+    display: inline-block;
+}
+.list-group-horizontal .list-group-item {
+    margin-bottom: 0;
+    margin-left:-4px;
+    margin-right: 0;
+    border-right-width: 0;
+}
+.list-group-horizontal .list-group-item:first-child {
+    border-top-right-radius:0;
+    border-bottom-left-radius:4px;
+}
+.list-group-horizontal .list-group-item:last-child {
+    border-top-right-radius:4px;
+    border-bottom-left-radius:0;
+    border-right-width: 1px;
+}
+  .card{
+    width: 100%; border-radius: 21px 21px 0 0;
+    height: '100%'
+}
+
+.carousel-item{
+    text-align: center;
+    min-height: 280px; /* Prevent carousel from being distorted if for some reason image doesn't load */
+}
+.bs-example{
+	margin: 20px;
+}
+.full {
+    height: 100%;
+    position: fixed;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+}
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  body {
+    height: 100%;
+    width: 100%;  }
+  
+  div.root,  div.root.roott{
+    height: 100vp; /* remove this line to see div.app is no more 100% height */
+
+    top: 0em;
+    padding: 0em;
+    margin: 0em;
+    width: 100vp;
+    position: relative;
+  
+  }
+  @media (max-width:767px) {
+
+    .contour
+    {
+     width: 0!important;
+     
+      }
+
+
+    }
+  div.root.ab{
+    position: absolute;
+    z-index: 1;
+  }
+  #contour {
+    padding: 0em;
+  }
+  div.app {
+    width: 100%;
+    height: 100%;
+    background-color: rgb(255, 220, 223);
+  }
+  .images{
+      height: 500px !important; 
+      max-height: 50em !important;
+  }
+  .clubs{
+    float:right; 
+    width: 100%;
+    margin-right: 9%;
+   
+  }
+  
+  .clubscontent{
+    float:left; 
+   
+  }
+  root.root.roott#weclome{
+    position: absolute ;
+  left:0;
+  width: 50%;
+   top: 25%;
+   margin-left: 15%;
+   color:	#008B8B
+    
+ }
+ .contentt{
+    
+     background-color: thistle;
+ }
+ #insat{
+    -webkit-filter: blur(4px);  
+    filter: blur(2px);
+ }
+ .root.h1,#withCarousel{
+
+  
+  
+ text-align: center ;
+ 
+ background-image: url(/stars.png) !important;
+  
+   color:	#008B8B
+    
+ 
+ }
+ #clubLink{
+    position: absolute ;
+   
+    margin-right: 90%;
+    margin-bottom: 0em;
+
+ }
+ .body{
+   
+   background-color: #E0FFFF
+ }
+
+.eventsection{
+  
+    border: 2px solid black;
+    margin-left: 0px;
+  margin-right: 0em;
+    
+    background-repeat: no-repeat;
+    background-size: auto;
+  background-image: url(/stars.png) !important;
+}
+
+.navbarr{
+  background-color: #F5F5DC  !important;
+}
+.nav-link{
+  color: black !important;
+}
+.jumbotron{
+  background-color: #F5F5DC  !important;
+}
+.j2{
+  background-color: white !important;
+  margin-top:0%;
+  margin-left: 0px;
+  margin-right: 0em;
+  padding-top:0%;
+  margin-left: 0px;
+  margin-right: 0em;
+}
+#eventsection.container{
+  padding-left: 0em;
+  padding-right: 0em;
+  margin-left: 0em;
+  margin-right: 0em;
+}
+#the.jumbotron{
+  background-color: #F5F5DC  !important;
+  margin-left: 0px;
+  margin-right: 0em;
+  margin-top: 0px;
+  margin-bottom: 0em;
+}
+#without.jumbotron,#root.div{
+  background-color: #F5F5DC  !important;
+  margin-left: 0px;
+  margin-right: 0em;
+}
+div.jumbotron.j2{
+  margin-left: 0px;
+  margin-right: 0em;
+  padding-left: 0em;
+  padding-right: 0em;
+ 
+}
+.root{
+  background-color: white;
+}
+@media (min-width: 800px) and (max-width: 850px) {
+  .navbar:not(.top-nav-collapse) {
+      background: #1C2331!important;
+  }
+}
+.navbar{background-color:rgba(0,0,0,.2)}
+.top-nav-collapse
+{background-color:#1C2331}@media only screen and (max-width:768px){.navbar{background-color:#1C2331}}
+
+
+.nav-link{
+  color: white !important;
+  font-weight: bold !important;
+
+}
+.log{
+  padding-inline-start: 10%;
+}
+
